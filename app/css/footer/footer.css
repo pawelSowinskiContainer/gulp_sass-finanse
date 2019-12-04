@@ -1,0 +1,14 @@
+footer .footer-container .footer-item_1 .icon {
+    background-color: yellow;
+}
+
+footer .footer-container .footer-item_1 .icon i {
+    color: #000;
+    font-size: 3rem;
+}
+
+footer .footer-container .footer-item_1 h3 {
+    font-weight: 300;
+    font-size: 1.2rem;
+    color: #fff;
+}

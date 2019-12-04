@@ -1,0 +1,15 @@
+article {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+article .article-tiem_1 {
+    flex-basis: 30%;
+    width: 20px;
+    background-color: red;
+}
+
+article .article-item_2 {
+    flex-basis: 15%;
+}
